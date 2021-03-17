@@ -1,4 +1,5 @@
 # hello-world
 Just my first repository
 
-Giggs here, I'm into python
+Giggs here, I interested python
+You can reach me on my email: giggs1803@gmail.com
